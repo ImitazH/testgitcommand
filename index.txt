@@ -1,0 +1,1 @@
+This is a text file and will try to push this file to git repository using Git command line on Got Bash.
