@@ -1,4 +1,4 @@
 # testgitcommand
 Testing Git Command with Git Bash
 
-==> Test Successful :) <==
+==> <b>Test Successful <b> :) <==
